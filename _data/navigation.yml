@@ -1,34 +1,78 @@
 header:
   - titles:
-      en      : &EN       Archive
-      en-GB   : *EN
-      en-US   : *EN
-      en-CA   : *EN
-      en-AU   : *EN
-      zh-Hans : &ZH_HANS  归档
-      zh      : *ZH_HANS
-      zh-CN   : *ZH_HANS
-      zh-SG   : *ZH_HANS
-      zh-Hant : &ZH_HANT  歸檔
-      zh-TW   : *ZH_HANT
-      zh-HK   : *ZH_HANT
-      ko      : &KO       아카이브
-      ko-KR   : *KO
-    url: /archive.html
+      en: &EN       Documentation
+      ru: &RU       Документация
+    key: docs
+    urls:
+      en: &EN       /en/docs
+      ru: &RU       /ru/docs
+
+  #- titles:
+  #    en: &EN       About
+  #    ru: &RU       О нас
+  #  key: about
+  #  urls:
+  #    en: &EN       /en/about
+  #    ru: &RU       /ru/about
 
   - titles:
-      en      : &EN       About
-      en-GB   : *EN
-      en-US   : *EN
-      en-CA   : *EN
-      en-AU   : *EN
-      zh-Hans : &ZH_HANS  关于
-      zh      : *ZH_HANS
-      zh-CN   : *ZH_HANS
-      zh-SG   : *ZH_HANS
-      zh-Hant : &ZH_HANT  關於
-      zh-TW   : *ZH_HANT
-      zh-HK   : *ZH_HANT
-      ko      : &KO       소개
-      ko-KR   : *KO
-    url: /about.html
+      en: &EN       = Русский =
+      ru: &RU       = English =
+    key: language
+    urls:
+      en: &EN       /ru/
+      ru: &RU       /
+    
+
+docs-en:
+  - title:      Start
+    children:
+      - title:  Introduction
+        url:    /en/docs
+      - title:  Installation
+        url:    /en/docs/installation
+      - title:  Structure
+        url:    /en/docs/structure
+  - title:      Tasks
+    children:
+      - title:  Main settings
+        url:    /en/docs/tasks/main
+      - title:  Demo mode
+        url:    /en/docs/tasks/demo
+  - title:      Strategies
+    children:
+      - title:  Main settings
+        url:    /en/docs/strategies/main
+      - title:  Scalper
+        url:    /en/docs/strategies/scalper
+      - title:  Flash
+        url:    /en/docs/strategies/flash
+      - title:  Highlow
+        url:    /en/docs/strategies/highlow
+
+
+docs-ru:
+  - title:      Начало
+    children:
+      - title:  Вступление
+        url:    /ru/docs
+      - title:  Установка
+        url:    /ru/docs/installation
+      - title:  Структура
+        url:    /ru/docs/structure
+  - title:      Задачи
+    children:
+      - title:  Основные настройки
+        url:    /ru/docs/tasks/main
+      - title:  Демо режим
+        url:    /ru/docs/tasks/demo
+  - title:      Стратегии
+    children:
+      - title:  Основные настройки
+        url:    /ru/docs/strategies/main
+      - title:  Скальпер
+        url:    /ru/docs/strategies/scalper
+      - title:  Флэш
+        url:    /ru/docs/strategies/flash
+      - title:  Хайлоу
+        url:    /ru/docs/strategies/highlow
