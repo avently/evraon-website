@@ -17,7 +17,8 @@ This section will help you to understand how Evraon works and how to use it with
 
 These exchanges are currently supported:
 - Binance
-- Bitmex.
+- Bitmex
+- Moscow and Saint Petersburg exchanges via Quik.
 
 The app divided on two parts: to a server and to a client. By "server" I mean that all work will be done here and it is a main part. You can install the server on:
 - Android (server and client in one app)
@@ -37,6 +38,7 @@ When traveling around the world, the mobile internet is often very poor or has l
 - you can add hundres of exchange's account and to switch between them quickly
 - you can add hundres of servers and to switch between them quickly
 - there are multiple skins inside the app. One of them made for an Amoled screen
-- orderBook was made for scalpers - long press on the price you are interested in to place an order and double press on it to place a stop order.
+- order book was made for scalpers - long press on the price you are interested in to place an order and double press on it to place a stop order
+- order book Pro (only for professionals) with ability to place/cancel/edit order in one click or swipe!
 
 Ok, let's go to the next chapter of our documentation.

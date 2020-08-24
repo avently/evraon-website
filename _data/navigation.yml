@@ -49,6 +49,14 @@ docs-en:
         url:    /en/docs/strategies/flash
       - title:  Highlow
         url:    /en/docs/strategies/highlow
+  - title:      Exchanges
+    children:
+      - title:  Binance
+        url:    /en/docs/connectors/binance
+      - title:  Bitmex
+        url:    /en/docs/connectors/bitmex
+      - title:  Quik
+        url:    /en/docs/connectors/quik
 
 
 docs-ru:
@@ -76,3 +84,11 @@ docs-ru:
         url:    /ru/docs/strategies/flash
       - title:  Хайлоу
         url:    /ru/docs/strategies/highlow
+  - title:      Биржи
+    children:
+      - title:  Binance
+        url:    /ru/docs/connectors/binance
+      - title:  Bitmex
+        url:    /ru/docs/connectors/bitmex
+      - title:  Quik
+        url:    /ru/docs/connectors/quik
