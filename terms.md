@@ -15,6 +15,8 @@ By installing and/or using Evraon Services you agree to these Terms of Use and t
 
 “Evraon Services” - the App and the Website providing Data, as defined below.
 
+“Evraon Account” - an account registered in Evraon Services
+
 "Data" - information about subscription to paid services for the User from Evraon.
 
 “App” - mobile and desktop application "Evraon". In the Agreement the “App” refers to the App and Updates, unless otherwise expressly mentioned in the License Agreement or Terms of Use.
@@ -23,13 +25,21 @@ By installing and/or using Evraon Services you agree to these Terms of Use and t
 
 "Free Version" - version of the App which does not require any payments for use with limited features.
 
-"Subscription" - access to the App provided to the User with additional features for the Subscription Term selected by the User.
+"Plan" - a set of additional paid features with specified price, rules, limits, period and amount of payment. It may expire without prior notice in any moment in the future and may not be available for the Subscription after expiration.
 
-"Store" - Apple App Store or Google Play Store.
+"Subscription" - access to the App provided to the User after choosing the Plan and paying for it for the Subscription Term selected by the User and by rules of the Plan.
+
+"Subscription Fee" - an amount of money, cryptocurrency or virtual currency required to pay to be able to access for the Plan features.
+
+"Store" - Apple App Store, Google Play or Huawei AppGallery.
+
+"Store Account" - User's account within the Store.
 
 "Cryptocurrency" - Bitcoin, Ethereum, or any other cryptocurrency.
 
-“Website” - the website evraon.com or any it's subdomains
+"Exchange" - Binance, BitMEX, Moscow exchange, Saint-Petersburg exchange and other services that can be supported within Evraon Services in the future that allows to trade through them.
+
+“Website” - the website evraon.com or any it's subdomains.
 
 “Terms of Use” - terms and conditions determining how the User may and shall use the Evraon Services.
 
@@ -37,7 +47,7 @@ By installing and/or using Evraon Services you agree to these Terms of Use and t
 
 “Trademarks” - the Licensor’s trademarks both registered and unregistered.
 
-"Applicable Law" - all civil and common laws, statutes, subordinate legislation, treaties, regulations, directives, decisions, by-laws, ordinances, circulars, codes, orders, notices, demands, decrees, injunctions, resolutions, rules and judgments of any government, quasi-government, statutory, administrative or regulatory body, court, agency or association by which any member of Evraon team or you are bound in any jurisdiction applicable to the receipt or performance of the Evraon Services.
+"Applicable Law" - all civil and common laws, statutes, subordinate legislation, treaties, regulations, directives, decisions, by-laws, ordinances, circulars, codes, orders, notices, demands, decrees, injunctions, resolutions, rules and judgments of any government, quasi-government, statutory, administrative or regulatory body, court, agency or association by which any member of Evraon team or you are bound in any jurisdiction applicable to the receipt or performance of Evraon Services.
 
 “Technical Support” - consultation of the Users regarding downloading, installing or use of the Evraon Services conducted by the Licensor or authorized persons.
 
@@ -57,19 +67,17 @@ By installing and/or using Evraon Services you agree to these Terms of Use and t
 
 8. Evraon team reserves the right to make any amendment to the Evraon Services, including, but not limited to, addition of new functions or reduction of any functions, without prior notification of the User.
 
-9. You acknowledge hereby that you agree to use Evraon Services at your own risk. Evraon is not responsible for any negative effects from the use of Evraon Services, including, but not limited to, stopping of functioning thereof, or any damage, including, but not limited to, physical damage to your property, consequential loss, financial loss, damage to your health, or violation of Applicable or Relevant Laws, caused by downloading or use of Evraon Services.
+9. You acknowledge hereby that you agree to use Evraon Services at your own risk. Evraon is not responsible for any negative effects from the use of Evraon Services, including, but not limited to, stopping of functioning thereof, or any damage, including, but not limited to, physical damage to your property, consequential loss, financial loss, damage to your health, violation of Terms of Service of Exchanges you're using, or violation of Applicable or Relevant Laws, caused by downloading or use of Evraon Services.
 
-10. You hereby acknowledge that you understand that all and any payments for the access to the Subscription that made via the Store, and terms and conditions of the Store related to the payment process, including, but not limited to, terms and conditions of refund, shall be applied. Evraon team shall not be responsible for any negative effects arisen within or after the payment process, or in connection with payment process.
+10. You hereby acknowledge that you understand that all and any payments for the access to the Subscription that made through the Store, and terms and conditions of the Store related to the payment process, including, but not limited to, terms and conditions of refund, shall be applied. Evraon team shall not be responsible for any negative effects arisen within or after the payment process, or in connection with payment process.
 
-11. You hereby acknowledge that you understand that all payments for the access to the Subscription that made via the Cryptocurrency could not be refunded.
+11. You hereby acknowledge that you understand that all payments for the access to the Subscription that made through the Cryptocurrency could not be refunded.
 
-12. You are not allowed to access or use the Services if you are located, incorporated or otherwise established in, or a citizen or resident of: the United States of America, the province of Québec in Canada, Cuba, Iran, Syria, North Korea or Sudan;  any state, country or other jurisdiction that is embargoed by the United States of America; a jurisdiction where it would be illegal according to Applicable Law for you (by reason of your nationality, domicile, citizenship, residence or otherwise) to access or use the Services; or where the publication or availability of the Services is prohibited or contrary to local law or regulation.
+12. You must ensure that all usernames, emails and passwords required to access the App are kept secure and confidential.
 
-13. You must ensure that all usernames and passwords required to access the App are kept secure and confidential.
+13. Evraon Team reserves the right at our own discretion to suspend your Subscription at any time.
 
-14. Evraon team reserves the right at our own discretion to suspend your subscription at any time.
-
-15. If you have any questions regarding Evraon Services, these Terms of Use or our License Agreement, you may contact us at any time, and we will make our best effort to answer your questions. 
+14. If you have any questions regarding Evraon Services, these Terms of Use or our License Agreement, you may contact us at any time, and we will make our best effort to answer your questions. 
 
 ## License Agreement
 
@@ -105,39 +113,35 @@ The Licensor and the User, together referred to as “Parties”, agree on the f
 
 ### 4. Payment Terms
 
-4.1. The User may access Evraon Services for free, and also may purchase Subscription which requires payment of Subscription Fees.
+4.1. The User may access Evraon Services for free, and also may purchase Subscription which requires payment of Subscription Fees by rules of the selected Plan.
 
-4.2. Subscription prices may be found in the App. Subscriptions prices may vary depending on the Store, promotions, the type of device, the Cryptocurrency prices, and the Subscription Term selected at the time of purchase.
+4.2. Plans may be found in the App. Plan prices may vary depending on the Store, the Payment Method, promotions, the type of device, the Cryptocurrency prices, and the Subscription Term selected at the time of purchase.
 
-4.3. If the payment for the access to the Non-Free App Version is made via the Store, and terms and conditions of the Store related to the payment process, including, but not limited to, terms and conditions of refund, shall be applied.
+4.3. If the payment for the access to the Non-Free App Version is made through the Store, terms and conditions of the Store related to the payment process, including, but not limited to, terms and conditions of refund, shall be applied.
 
-4.4. The Subscription renews automatically only if you are making the payment via the Store, as described herein.
+4.4. Evraon Services Subscriptions made through the Store will be charged through the Store Account and can be renewed automatically through the Store Account.
 
-4.5. All types of Subscriptions are billed in one payment for the Subscription Term.
+4.5. The User acknowledges and agrees that Evraon Team is authorized to charge her or him through the Store account or Evraon Account for the renewal and that the User will be charged for the regular Subscription Fee within 24 hours prior to the end of the Subscription Term through Store account or in any moment through Evraon account.
 
-4.6. Subscription made through the Apple App Store will be charged through your iTunes account and renew automatically through your iTunes account.
+4.6. Automatic renewal of Subscription made through the Stores may be turned off by the User in her or his Store account settings, but the User must do so at least 24 hours before the end of the Subscription Term to avoid renewing. This will stop future subscription charges from accruing to the Store account.
 
-4.7. Evraon Services subscriptions made through the Google Play Store will be charged through your Google Play account and renew automatically through your Google Play account.
-
-4.8. The User acknowledges and agrees that Evraon team is authorized to charge her or him through the User's iTunes account or Google Play account for the renewal and that the User will be charged for the regular Subscription Fee within 24 hours prior to the end of the Subscription Term.
-
-4.9. Automatic renewal may be turned off by the User in her or his iTunes account or Google Play account settings, but the User must do so at least 24 hours before the end of the Subscription Term to avoid renewing. This will stop future subscription charges from accruing to the User's account.
-
-4.10. The Subscription Fee may change in the future. If the Subscription Fee increases, the User will be notified and provided with an opportunity to change or cancel Subscription, before applying those changes to her or his account or charging her or his payment details in connection with an automatic renewal. 
+4.7. The Subscription Fee may change in the future. If the Subscription Fee increases, the User will be notified and provided with an opportunity to change or cancel Subscription, before applying those changes to her or his account or charging her or his payment details in connection with an automatic renewal. 
 
 
 ### 5. Subscription Term
 
-5.1. The User may Subscribe for one month or more ("Subscription Term").
+5.1. The User may Subscribe to any period of time when the Plan he or she chose is not expired ("Subscription Term").
 
-5.2. If the user subscribed via the Store, Subscription Term will be automatically renewed for one more Subscription Term, as described above, until the User terminates her or his Subscription. The Subscription Fee for each renewed Subscription Term will be charged, as defined above, until the User terminates her or his Subscription.
+5.2. If the user subscribed through the Store, Subscription Term may be automatically renewed for one more Subscription Term, as described above, until the User terminates her or his Subscription. The Subscription Fee for each renewed Subscription Term will be charged, as defined above, until the User terminates her or his Subscription.
 
-5.3. The access to the Non-Free App Version will be restricted on the next day after expiration of the Subscription Term. 
+5.3. The access to the Non-Free App Version will be restricted on the next day after expiration of the Subscription Term.
+
+5.4. The access to the Non-Free App Version will be restricted immediately if there are no money on Evraon Account for paying for the Plan that is based on fees from User's orders made within Evraon Services on Exchanges.
 
 
 ### 6. Refund Policy
 
-6.1. Evraon team does not provide a refund and does not prorate refunds or offer partial refunds.
+6.1. Evraon Team does not provide a refund and does not prorate refunds or offer partial refunds.
 
 
 ### 7. Restrictions
@@ -164,9 +168,9 @@ The Licensor and the User, together referred to as “Parties”, agree on the f
 
 8.5. The User expressly acknowledges and agrees to be fully responsible for all effects of use of Third Party Services, including compliance with the Relevant Law.
 
-8.6. The Licensor may restrict access or change conditions of access to Third Party Services via the Evraon Services. The Licensor is not obliged to notify the User about such restrictions.
+8.6. The Licensor may restrict access or change conditions of access to Third Party Services through the Evraon Services. The Licensor is not obliged to notify the User about such restrictions.
 
-8.7. The Licensor is not responsible for the accessibility of Third Party Services, their content, functions and any negative effects of use of the Third Party Services. The Licensor is not responsible for any consequences of restrictions or change of conditions of access to the Third Party Services via the Evraon Services. 
+8.7. The Licensor is not responsible for the accessibility of Third Party Services, their content, functions and any negative effects of use of the Third Party Services. The Licensor is not responsible for any consequences of restrictions or change of conditions of access to the Third Party Services through the Evraon Services. 
 
 ### 9. Exclusive Rights
 
@@ -190,7 +194,7 @@ The Licensor and the User, together referred to as “Parties”, agree on the f
 
 11.4. The Licensor shall not be liable if the ability to provide the User with any portion of the Data is lost.
 
-11.5. Evraon team makes no warranty regarding the Data or any other information obtained through the Evraon Services, or the accuracy, timeliness, truthfulness, completeness or reliability of any Data or other information obtained through the Evraon Services.
+11.5. Evraon Team makes no warranty regarding the Data or any other information obtained through the Evraon Services, or the accuracy, timeliness, truthfulness, completeness or reliability of any Data or other information obtained through the Evraon Services.
 
 11.6. All information, including, but not limited to, financial information and any forecasts, is provided by the Evraon Services and Third Party Services for informational purposes only.
 
