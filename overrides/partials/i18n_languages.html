@@ -1,0 +1,6 @@
+{% for lang, display in config.plugins.i18n.config.languages.items() -%}
+{% if config.theme.language != lang %}
+<div style="display: inline-block; margin-right: 10px; font-size: small;"><a
+        href="/{{ lang }}/docs/">{{ display }}</a></div>
+{% endif %}
+{% endfor %}

@@ -1,0 +1,12 @@
+{% extends "base.html" %}
+
+{% block announce %}
+{% if config.theme.language == 'en' %}
+Welcome! If you have unanswered questions after reading the documentation let me know, I'll answer on them.
+{% elif config.theme.language == 'ru' %}
+Привет! Если после прочтения документации возникнут вопросы, пишите, отвечу. 
+{% else %}
+Welcome!
+{% endif %}
+{% endblock %}
+
