@@ -52,6 +52,7 @@ markdown_extensions:
         permalink: ⚓
     - pymdownx.tabbed
     - pymdownx.superfences
+    - meta
     #- admonition
 nav:
   - Home: index.md
