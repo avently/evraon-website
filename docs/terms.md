@@ -9,7 +9,7 @@ By installing and/or using Evraon Services you agree to these Terms of Use and t
 
 “Evraon Services” - the App and the Website providing Data, as defined below.
 
-“Evraon Account” - an account registered in Evraon Services
+“Evraon Account” - an account registered in Evraon Services.
 
 "Data" - information about subscription to paid services for the User from Evraon.
 
@@ -25,7 +25,7 @@ By installing and/or using Evraon Services you agree to these Terms of Use and t
 
 "Subscription Fee" - an amount of money, cryptocurrency or virtual currency required to pay to be able to access for the Plan features.
 
-"Store" - Apple App Store, Google Play or Huawei AppGallery.
+"Store" - Apple App Store, Google Play, Amazon Appstore or Huawei AppGallery.
 
 "Store Account" - User's account within the Store.
 
