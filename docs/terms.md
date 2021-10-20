@@ -1,4 +1,3 @@
-
 ## Terms of Use
 
 By installing and/or using Evraon Services you agree to these Terms of Use and the License Agreement. These Terms of Use supplement the License Agreement, and all Definitions used in these Terms of Use and License Agreement shall be determined and construed as set forth:
@@ -71,7 +70,7 @@ By installing and/or using Evraon Services you agree to these Terms of Use and t
 
 13. Evraon Team reserves the right at our own discretion to suspend your Subscription at any time.
 
-14. If you have any questions regarding Evraon Services, these Terms of Use or our License Agreement, you may contact us at any time, and we will make our best effort to answer your questions. 
+14. If you have any questions regarding Evraon Services, these Terms of Use or our License Agreement, you may contact us at any time, and we will make our best effort to answer your questions.
 
 ## License Agreement
 
@@ -88,22 +87,22 @@ In case of disagreement with these Terms or any further amendments and supplemen
 The Licensor and the User, together referred to as “Parties”, agree on the following:
 
 ### 1. Subject of the Agreement
-    
+
 1.1. The Licensor hereby grants the User non-exclusive, non-transferable, non-sublicensable right to use the Evraon Services in accordance with this Agreement and Terms of Use. Under this Agreement no right is transferred.
 
 1.2. Unless this Agreement provides otherwise, the right to use the Updates shall be granted in accordance with these Terms. The Licensee shall use the Updates in accordance with this Agreement and Terms of Use.
 
-1.3. The Licensor may restrict access of Users from any country to the Updates in its sole discretion, even if access to the App is not restricted for this country. 
+1.3. The Licensor may restrict access of Users from any country to the Updates in its sole discretion, even if access to the App is not restricted for this country.
 
 ### 2. Provision of App
 
-2.1. The Licensor grants access to the App for downloading, installing and use thereof. 
+2.1. The Licensor grants access to the App for downloading, installing and use thereof.
 
 ### 3. Internet
 
 3.1. Insofar as the Evraon Services require connection to the Internet for their proper work and access to the Technical Support, the User is required to have and maintain an adequate Internet connection.
 
-3.2. The User is solely responsible for acquiring and maintaining connection to the Internet, other hardware and software required to access and use the Evraon Services, including, but not limited to, any and all costs and fees. 
+3.2. The User is solely responsible for acquiring and maintaining connection to the Internet, other hardware and software required to access and use the Evraon Services, including, but not limited to, any and all costs and fees.
 
 ### 4. Payment Terms
 
@@ -119,8 +118,7 @@ The Licensor and the User, together referred to as “Parties”, agree on the f
 
 4.6. Automatic renewal of Subscription made through the Stores may be turned off by the User in her or his Store account settings, but the User must do so at least 24 hours before the end of the Subscription Term to avoid renewing. This will stop future subscription charges from accruing to the Store account.
 
-4.7. The Subscription Fee may change in the future. If the Subscription Fee increases, the User will be notified and provided with an opportunity to change or cancel Subscription, before applying those changes to her or his account or charging her or his payment details in connection with an automatic renewal. 
-
+4.7. The Subscription Fee may change in the future. If the Subscription Fee increases, the User will be notified and provided with an opportunity to change or cancel Subscription, before applying those changes to her or his account or charging her or his payment details in connection with an automatic renewal.
 
 ### 5. Subscription Term
 
@@ -132,11 +130,9 @@ The Licensor and the User, together referred to as “Parties”, agree on the f
 
 5.4. The access to the Non-Free App Version will be restricted immediately if there are no money on Evraon Account for paying for the Plan that is based on fees from User's orders made within Evraon Services on Exchanges.
 
-
 ### 6. Refund Policy
 
 6.1. Evraon Team does not provide a refund and does not prorate refunds or offer partial refunds.
-
 
 ### 7. Restrictions
 
@@ -148,7 +144,7 @@ The Licensor and the User, together referred to as “Parties”, agree on the f
 
 7.4. If the Licensee prepares a new program or website using the App or the Website or their parts as a part or as a base, the Licensor may request the Licensee to stop using the App, the Website or parts thereof in the other program or website.
 
-7.5. If the User identifies any bug or error, purposely or accidentally, he or she shall immediately notify the Licensor about the identified bug or error, and agrees not to take any actions that would increase the severity of identified bug or error. 
+7.5. If the User identifies any bug or error, purposely or accidentally, he or she shall immediately notify the Licensor about the identified bug or error, and agrees not to take any actions that would increase the severity of identified bug or error.
 
 ### 8. Third Party Services
 
@@ -164,19 +160,19 @@ The Licensor and the User, together referred to as “Parties”, agree on the f
 
 8.6. The Licensor may restrict access or change conditions of access to Third Party Services through the Evraon Services. The Licensor is not obliged to notify the User about such restrictions.
 
-8.7. The Licensor is not responsible for the accessibility of Third Party Services, their content, functions and any negative effects of use of the Third Party Services. The Licensor is not responsible for any consequences of restrictions or change of conditions of access to the Third Party Services through the Evraon Services. 
+8.7. The Licensor is not responsible for the accessibility of Third Party Services, their content, functions and any negative effects of use of the Third Party Services. The Licensor is not responsible for any consequences of restrictions or change of conditions of access to the Third Party Services through the Evraon Services.
 
 ### 9. Exclusive Rights
 
 9.1. The User does not acquire any rights to the Evraon Services and any content thereof, except the right to use them in accordance with this Agreement and Terms of Use.
 
-9.2. The Licensee may not remove, obscure or modify the Trademarks, any copyright notices or other legal notices. 
+9.2. The Licensee may not remove, obscure or modify the Trademarks, any copyright notices or other legal notices.
 
 ### 10. Technical Support
 
 10.1. The Licensor may provide the User with Technical Support.
 
-10.2. The Licensor does not provide Technical Support on issues related to Third Party Services. 
+10.2. The Licensor does not provide Technical Support on issues related to Third Party Services.
 
 ### 11. Warranty
 
@@ -194,7 +190,7 @@ The Licensor and the User, together referred to as “Parties”, agree on the f
 
 11.7. The Licensor is not responsible for its accuracy and consequences of use, including, but not limited to, infringement of third party rights or damage occurred as a result of use of this information as a guideline or recommendation.
 
-11.8. No oral or written message or advice, including, but not limited to, consultations provided as Technical Support by the Licensor or any authorized representatives, shall create a warranty. 
+11.8. No oral or written message or advice, including, but not limited to, consultations provided as Technical Support by the Licensor or any authorized representatives, shall create a warranty.
 
 ### 12. Liability
 
@@ -202,13 +198,13 @@ The Licensor and the User, together referred to as “Parties”, agree on the f
 
 12.2. The Licensor may restrict the right to use the Evraon Services, if the User breaches the Agreement or Terms of Use. The Licensor is not obliged to notify the User about the intention to restrict this right. If the right of use is restricted, the Licensee shall remove the App from all his or her devices and not try to acquire access to the App or the Website.
 
-12.3. The Licensor is not responsible for any negative effects, including, but not limited to, harm induced by or related to downloading, installing and/or use of the Evraon Services or any Data delivered to the User thereby. The Licensor is not responsible for any damage, including, but not limited to, damage caused to the User’s health, property, business reputation, loss of profit or loss of data by downloading, installing or use of the Evraon Services or the Third Party Services, or related to such downloading, installing or use. 
+12.3. The Licensor is not responsible for any negative effects, including, but not limited to, harm induced by or related to downloading, installing and/or use of the Evraon Services or any Data delivered to the User thereby. The Licensor is not responsible for any damage, including, but not limited to, damage caused to the User’s health, property, business reputation, loss of profit or loss of data by downloading, installing or use of the Evraon Services or the Third Party Services, or related to such downloading, installing or use.
 
 ### 13. Term of the Agreement
 
 13.1. This Agreement is perpetual.
 
-13.2. The Agreement continues in force and effect unless it is terminated. Termination provisions are provided in Section 14. 
+13.2. The Agreement continues in force and effect unless it is terminated. Termination provisions are provided in Section 14.
 
 ### 14. Termination of the Agreement
 
@@ -220,7 +216,7 @@ The Licensor and the User, together referred to as “Parties”, agree on the f
 
 14.4. The Licensee’s access to the Evraon Services may be restricted in the Licensor’s sole discretion if the Agreement is terminated at the initiative of the Licensor.
 
-14.5. The User shall remove the App from his or her device immediately after termination of the Agreement. Use of the Evraon Services may be resumed only if the User accepts Terms of Use and this License Agreement again. 
+14.5. The User shall remove the App from his or her device immediately after termination of the Agreement. Use of the Evraon Services may be resumed only if the User accepts Terms of Use and this License Agreement again.
 
 ### 15. Transfer of Rights
 
@@ -230,7 +226,7 @@ The Licensor and the User, together referred to as “Parties”, agree on the f
 
 15.3. The person who acquired such a device may use the App only if this person Accepts the Terms.
 
-15.4. The Licensor may transfer or assign any rights and/or obligations, fully or partly, without receiving the Licensee’s consent or approval. 
+15.4. The Licensor may transfer or assign any rights and/or obligations, fully or partly, without receiving the Licensee’s consent or approval.
 
 ### 16. Confidentiality
 
@@ -238,7 +234,7 @@ The Licensor and the User, together referred to as “Parties”, agree on the f
 
 16.2. The Licensee shall immediately notify the Licensor that he or she became aware of the source code.
 
-16.3. If these confidentiality provisions are breached, the breaching Party shall pay damages including consequential loss. 
+16.3. If these confidentiality provisions are breached, the breaching Party shall pay damages including consequential loss.
 
 ### 17. General Provisions
 
@@ -248,7 +244,7 @@ The Licensor and the User, together referred to as “Parties”, agree on the f
 
 17.3. If the Agreement is translated into any other language, the version in English language shall prevail.
 
-17.4. All notices regarding this Agreement shall be written in English. 
+17.4. All notices regarding this Agreement shall be written in English.
 
 ### 18. Dispute Resolution
 
