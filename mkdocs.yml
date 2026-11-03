@@ -4,6 +4,8 @@ extra_css: [assets/styles/extra.css]
 extra_javascript: [assets/js/extra.js]
 docs_dir: 'docs'
 site_dir: 'generated'
+hooks:
+  - hooks/default_language_prefix.py
 
 theme:
   name: material
@@ -39,14 +41,14 @@ extra:
     - name: Русский
       link: /ru/docs/
       lang: ru
-    
+
   social:
     - icon: fontawesome/brands/telegram
       link: https://t.me/evraon
 
     - icon: fontawesome/brands/github
       link: https://github.com/avently
-  
+
 markdown_extensions:
     - toc:
         permalink: ⚓
@@ -64,7 +66,7 @@ nav:
     - Tasks:
       - Main settings: docs/tasks/main.md
       - docs/tasks/demo.md
-    
+
     - Strategies:
       - Main settings: docs/strategies/main.md
       - docs/strategies/scalper.md
@@ -78,21 +80,23 @@ nav:
 plugins:
   - search
   - i18n:
-      default_language: !ENV [DEFAULT_LANGUAGE, "en"]
-      default_language_only: !ENV [DEFAULT_LANGUAGE_ONLY, false]
       languages:
-        en: ENG
-        ru: РУС
-      nav_translations:
-        ru:
-          Home: Главная
-          Start: Начало
-          Main settings: Основные настройки
-          Docs: Документация
-          Exchanges: Биржи
-          Strategies: Стратегии
-          Tasks: Задачи
-        en:
-          Connectors: Exchanges
+        - locale: en
+          name: ENG
+          build: true
+          default: true
+          nav_translations:
+            Connectors: Exchanges
+        - locale: ru
+          name: РУС
+          build: true
+          nav_translations:
+            Home: Главная
+            Start: Начало
+            Main settings: Основные настройки
+            Docs: Документация
+            Exchanges: Биржи
+            Strategies: Стратегии
+            Tasks: Задачи
 
 copyright: Copyright &copy; 2018 - 2021 Stanislav Dmitrenko - <a href="/en/terms/">Terms Of Use</a> - <a href="/en/privacy/">Privacy Policy</a>
