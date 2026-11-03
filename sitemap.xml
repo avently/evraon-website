@@ -1,0 +1,255 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+    <url>
+        <loc>https://evraon.com/</loc>
+        <lastmod>2026-11-03</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://evraon.com/"/>
+        <xhtml:link rel="alternate" hreflang="ru" href="https://evraon.com/ru/"/>
+    </url>
+    <url>
+        <loc>https://evraon.com/privacy/</loc>
+        <lastmod>2026-11-03</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://evraon.com/privacy/"/>
+        <xhtml:link rel="alternate" hreflang="ru" href="https://evraon.com/ru/privacy/"/>
+    </url>
+    <url>
+        <loc>https://evraon.com/terms/</loc>
+        <lastmod>2026-11-03</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://evraon.com/terms/"/>
+        <xhtml:link rel="alternate" hreflang="ru" href="https://evraon.com/ru/terms/"/>
+    </url>
+    <url>
+        <loc>https://evraon.com/account/delete/</loc>
+        <lastmod>2026-11-03</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://evraon.com/account/delete/"/>
+        <xhtml:link rel="alternate" hreflang="ru" href="https://evraon.com/ru/account/delete/"/>
+    </url>
+    <url>
+        <loc>https://evraon.com/account/password/change/</loc>
+        <lastmod>2026-11-03</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://evraon.com/account/password/change/"/>
+        <xhtml:link rel="alternate" hreflang="ru" href="https://evraon.com/ru/account/password/change/"/>
+    </url>
+    <url>
+        <loc>https://evraon.com/account/password/reset/</loc>
+        <lastmod>2026-11-03</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://evraon.com/account/password/reset/"/>
+        <xhtml:link rel="alternate" hreflang="ru" href="https://evraon.com/ru/account/password/reset/"/>
+    </url>
+    <url>
+        <loc>https://evraon.com/docs/</loc>
+        <lastmod>2026-11-03</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://evraon.com/docs/"/>
+        <xhtml:link rel="alternate" hreflang="ru" href="https://evraon.com/ru/docs/"/>
+    </url>
+    <url>
+        <loc>https://evraon.com/docs/installation/</loc>
+        <lastmod>2026-11-03</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://evraon.com/docs/installation/"/>
+        <xhtml:link rel="alternate" hreflang="ru" href="https://evraon.com/ru/docs/installation/"/>
+    </url>
+    <url>
+        <loc>https://evraon.com/docs/structure/</loc>
+        <lastmod>2026-11-03</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://evraon.com/docs/structure/"/>
+        <xhtml:link rel="alternate" hreflang="ru" href="https://evraon.com/ru/docs/structure/"/>
+    </url>
+    <url>
+        <loc>https://evraon.com/docs/connectors/binance/</loc>
+        <lastmod>2026-11-03</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://evraon.com/docs/connectors/binance/"/>
+        <xhtml:link rel="alternate" hreflang="ru" href="https://evraon.com/ru/docs/connectors/binance/"/>
+    </url>
+    <url>
+        <loc>https://evraon.com/docs/connectors/bitmex/</loc>
+        <lastmod>2026-11-03</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://evraon.com/docs/connectors/bitmex/"/>
+        <xhtml:link rel="alternate" hreflang="ru" href="https://evraon.com/ru/docs/connectors/bitmex/"/>
+    </url>
+    <url>
+        <loc>https://evraon.com/docs/connectors/quik/</loc>
+        <lastmod>2026-11-03</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://evraon.com/docs/connectors/quik/"/>
+        <xhtml:link rel="alternate" hreflang="ru" href="https://evraon.com/ru/docs/connectors/quik/"/>
+    </url>
+    <url>
+        <loc>https://evraon.com/docs/strategies/flash/</loc>
+        <lastmod>2026-11-03</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://evraon.com/docs/strategies/flash/"/>
+        <xhtml:link rel="alternate" hreflang="ru" href="https://evraon.com/ru/docs/strategies/flash/"/>
+    </url>
+    <url>
+        <loc>https://evraon.com/docs/strategies/highlow/</loc>
+        <lastmod>2026-11-03</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://evraon.com/docs/strategies/highlow/"/>
+        <xhtml:link rel="alternate" hreflang="ru" href="https://evraon.com/ru/docs/strategies/highlow/"/>
+    </url>
+    <url>
+        <loc>https://evraon.com/docs/strategies/main/</loc>
+        <lastmod>2026-11-03</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://evraon.com/docs/strategies/main/"/>
+        <xhtml:link rel="alternate" hreflang="ru" href="https://evraon.com/ru/docs/strategies/main/"/>
+    </url>
+    <url>
+        <loc>https://evraon.com/docs/strategies/scalper/</loc>
+        <lastmod>2026-11-03</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://evraon.com/docs/strategies/scalper/"/>
+        <xhtml:link rel="alternate" hreflang="ru" href="https://evraon.com/ru/docs/strategies/scalper/"/>
+    </url>
+    <url>
+        <loc>https://evraon.com/docs/tasks/demo/</loc>
+        <lastmod>2026-11-03</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://evraon.com/docs/tasks/demo/"/>
+        <xhtml:link rel="alternate" hreflang="ru" href="https://evraon.com/ru/docs/tasks/demo/"/>
+    </url>
+    <url>
+        <loc>https://evraon.com/docs/tasks/main/</loc>
+        <lastmod>2026-11-03</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://evraon.com/docs/tasks/main/"/>
+        <xhtml:link rel="alternate" hreflang="ru" href="https://evraon.com/ru/docs/tasks/main/"/>
+    </url>
+    <url>
+        <loc>https://evraon.com/ru/</loc>
+        <lastmod>2026-11-03</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="ru" href="https://evraon.com/ru/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://evraon.com/"/>
+    </url>
+    <url>
+        <loc>https://evraon.com/ru/privacy/</loc>
+        <lastmod>2026-11-03</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="ru" href="https://evraon.com/ru/privacy/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://evraon.com/privacy/"/>
+    </url>
+    <url>
+        <loc>https://evraon.com/ru/terms/</loc>
+        <lastmod>2026-11-03</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="ru" href="https://evraon.com/ru/terms/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://evraon.com/terms/"/>
+    </url>
+    <url>
+        <loc>https://evraon.com/ru/account/delete/</loc>
+        <lastmod>2026-11-03</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="ru" href="https://evraon.com/ru/account/delete/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://evraon.com/account/delete/"/>
+    </url>
+    <url>
+        <loc>https://evraon.com/ru/account/password/change/</loc>
+        <lastmod>2026-11-03</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="ru" href="https://evraon.com/ru/account/password/change/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://evraon.com/account/password/change/"/>
+    </url>
+    <url>
+        <loc>https://evraon.com/ru/account/password/reset/</loc>
+        <lastmod>2026-11-03</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="ru" href="https://evraon.com/ru/account/password/reset/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://evraon.com/account/password/reset/"/>
+    </url>
+    <url>
+        <loc>https://evraon.com/ru/docs/</loc>
+        <lastmod>2026-11-03</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="ru" href="https://evraon.com/ru/docs/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://evraon.com/docs/"/>
+    </url>
+    <url>
+        <loc>https://evraon.com/ru/docs/installation/</loc>
+        <lastmod>2026-11-03</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="ru" href="https://evraon.com/ru/docs/installation/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://evraon.com/docs/installation/"/>
+    </url>
+    <url>
+        <loc>https://evraon.com/ru/docs/structure/</loc>
+        <lastmod>2026-11-03</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="ru" href="https://evraon.com/ru/docs/structure/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://evraon.com/docs/structure/"/>
+    </url>
+    <url>
+        <loc>https://evraon.com/ru/docs/connectors/binance/</loc>
+        <lastmod>2026-11-03</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="ru" href="https://evraon.com/ru/docs/connectors/binance/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://evraon.com/docs/connectors/binance/"/>
+    </url>
+    <url>
+        <loc>https://evraon.com/ru/docs/connectors/bitmex/</loc>
+        <lastmod>2026-11-03</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="ru" href="https://evraon.com/ru/docs/connectors/bitmex/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://evraon.com/docs/connectors/bitmex/"/>
+    </url>
+    <url>
+        <loc>https://evraon.com/ru/docs/connectors/quik/</loc>
+        <lastmod>2026-11-03</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="ru" href="https://evraon.com/ru/docs/connectors/quik/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://evraon.com/docs/connectors/quik/"/>
+    </url>
+    <url>
+        <loc>https://evraon.com/ru/docs/strategies/flash/</loc>
+        <lastmod>2026-11-03</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="ru" href="https://evraon.com/ru/docs/strategies/flash/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://evraon.com/docs/strategies/flash/"/>
+    </url>
+    <url>
+        <loc>https://evraon.com/ru/docs/strategies/highlow/</loc>
+        <lastmod>2026-11-03</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="ru" href="https://evraon.com/ru/docs/strategies/highlow/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://evraon.com/docs/strategies/highlow/"/>
+    </url>
+    <url>
+        <loc>https://evraon.com/ru/docs/strategies/main/</loc>
+        <lastmod>2026-11-03</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="ru" href="https://evraon.com/ru/docs/strategies/main/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://evraon.com/docs/strategies/main/"/>
+    </url>
+    <url>
+        <loc>https://evraon.com/ru/docs/strategies/scalper/</loc>
+        <lastmod>2026-11-03</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="ru" href="https://evraon.com/ru/docs/strategies/scalper/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://evraon.com/docs/strategies/scalper/"/>
+    </url>
+    <url>
+        <loc>https://evraon.com/ru/docs/tasks/demo/</loc>
+        <lastmod>2026-11-03</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="ru" href="https://evraon.com/ru/docs/tasks/demo/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://evraon.com/docs/tasks/demo/"/>
+    </url>
+    <url>
+        <loc>https://evraon.com/ru/docs/tasks/main/</loc>
+        <lastmod>2026-11-03</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="ru" href="https://evraon.com/ru/docs/tasks/main/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://evraon.com/docs/tasks/main/"/>
+    </url>
+</urlset>
